@@ -7,3 +7,6 @@
 *.ipr
 *.iws
 .idea/
+
+### SVN ###
+.svn/
