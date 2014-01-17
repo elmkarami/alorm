@@ -260,5 +260,5 @@ This concept comes to simplify the use of the session, for example if you want t
 To avoid this repetition we thought to introduce the notion of template 
 ```java
 AlormTemplate template = AlormTemplate.getTemplate(conext) ;
-template.save(car); //After the call fo save, the car object is already saved !
+template.save(car); //After calling of save, the car object is already saved !
 ```
