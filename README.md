@@ -1,4 +1,4 @@
-### Alorm
+### Alorm (Android Lite ORM)
 ![Alorm](http://img15.hostingpics.net/thumbs/mini_276571alorm.jpg)
 
 ***
