@@ -1,7 +1,7 @@
 *.class
 # Package Files #
 *.jar
-
+*.rar
 ### IntelliJ ###
 *.iml
 *.ipr
