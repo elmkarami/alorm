@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/56/trunk/AlormAndroidTest/src/com/alorm/core/sqlite/session/utils
+END
+LazyRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/56/trunk/AlormAndroidTest/src/com/alorm/core/sqlite/session/utils/LazyRow.java
+END
+UpdateQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/56/trunk/AlormAndroidTest/src/com/alorm/core/sqlite/session/utils/UpdateQuery.java
+END
+InsertQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/56/trunk/AlormAndroidTest/src/com/alorm/core/sqlite/session/utils/InsertQuery.java
+END

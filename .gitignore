@@ -1,0 +1,9 @@
+*.class
+# Package Files #
+*.jar
+
+### IntelliJ ###
+*.iml
+*.ipr
+*.iws
+.idea/

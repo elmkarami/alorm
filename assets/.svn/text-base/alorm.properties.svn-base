@@ -1,0 +1,3 @@
+dbName=alormdb
+dbType=sqlite
+dbVersion=1

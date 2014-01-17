@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/56/trunk/AlormAndroidTest/src/com/alorm/core/sqlite/helper
+END
+DataBaseOpenHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/56/trunk/AlormAndroidTest/src/com/alorm/core/sqlite/helper/DataBaseOpenHelper.java
+END
+SQLiteCursorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/56/trunk/AlormAndroidTest/src/com/alorm/core/sqlite/helper/SQLiteCursorFactory.java
+END
